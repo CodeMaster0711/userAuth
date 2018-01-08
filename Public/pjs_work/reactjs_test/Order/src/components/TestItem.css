@@ -1,0 +1,16 @@
+.test-item {
+  display: block;
+  margin-top: 10px;
+}
+.username {
+  display: inline-block;
+  width: 100px;
+}
+.email {
+  display: inline-block;
+  width: 200px;
+}
+.remove {
+  display: inline-block;
+  width: 100px;
+}

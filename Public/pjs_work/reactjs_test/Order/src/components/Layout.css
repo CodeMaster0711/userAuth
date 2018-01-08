@@ -1,0 +1,15 @@
+.grid {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 40px;
+}
+
+.main-content .row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.footer .row {
+    margin-left: 0;
+    margin-right: 0;
+}

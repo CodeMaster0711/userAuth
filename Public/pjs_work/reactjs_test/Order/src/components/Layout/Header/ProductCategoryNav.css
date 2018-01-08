@@ -1,0 +1,10 @@
+.product-category-nav {
+    margin: 0;
+    padding: 15px;
+}
+.product-category-nav li {
+    padding: 0 15px;
+}
+.product-category-nav li:first-child {
+    padding-left: 0;
+}
